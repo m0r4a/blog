@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Gael Mora"
+title = "Mora's tech blog"
 
 [params]
   displayName = "EN"

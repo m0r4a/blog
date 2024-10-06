@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gael Mora</title>
+    <title>Mora&#39;s tech blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Gael Mora</description>
+    <description>Recent content on Mora&#39;s tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>m0r4a@proton.me (Gael Mora)</managingEditor>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
       <guid>http://localhost:1313/posts/linux_history/</guid>
-      <description>This is a test post</description>
+      <description>This is a post where I summarize the history of linux, it is a test post.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux_history/featured.jpg" />
     </item>
     

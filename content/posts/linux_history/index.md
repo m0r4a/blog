@@ -2,7 +2,7 @@
 title: "The History of Linux"
 draft: false
 date: 2024-10-04
-summary: "This is a test post"
+summary: "This is a post where I summarize the history of linux, it is a test post."
 ---
 
 ## What's Linux?
