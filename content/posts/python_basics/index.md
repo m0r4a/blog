@@ -2,6 +2,7 @@
 title: "Python Quick Guide"
 draft: false
 date: 2024-10-04
+description: This is a really small and compact tutorial of Python, this is just a testfile to try code-related .md features. 
 summary: "This is another test post in which I give a really simple and brief python guide"
 ---
 

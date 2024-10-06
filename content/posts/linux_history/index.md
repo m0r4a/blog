@@ -2,6 +2,7 @@
 title: "The History of Linux"
 draft: false
 date: 2024-10-04
+description: I wrote a small chunk of text about the history of linux as a test file.
 summary: "This is a post where I summarize the history of linux, it is a test post."
 ---
 
