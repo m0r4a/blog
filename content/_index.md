@@ -1,5 +1,5 @@
 ---
-decription: My tech blog: documenting battles with new tools, sharing discoveries, and trying not to drown in the vast sea of technology.
+decription: This is my tech blog where I document battles with new tools, sharing discoveries, and trying not to drown in the vast sea of technology.
 ---
 
 Hey, welcome to my corner of the internet! I love experimenting with new stuff. One minute, I’m checking out an app, and the next, it’s 3 AM and I’m deep into Linux kernel docs. I’m into coding (mostly Python, Go, and Bash, the SRE/Cloud stack), setting up powerful servers, and quirky projects like building custom keyboard layouts.
