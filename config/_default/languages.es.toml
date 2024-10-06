@@ -1,17 +1,17 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "Mora's tech blog"
+languageCode = "es"
+languageName = "Spanish"
+weight = 2
+title = "Blog de Mora"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
+  displayName = "Español"
+  isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "This is my tech blog where I document battles with new tools, sharing discoveries, and trying not to drown in the vast sea of technology."
+  description = "Este es mi blog de tecnología, donde documento mis peleas con nuevas herramientas, comparto descubrimientos e intento no ahogarme en este mar llamado tecnología."
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -19,7 +19,7 @@ title = "Mora's tech blog"
    email = "m0r4a@proton.me"
    image = "author.jpg"
    imageQuality = 96
-   headline = "Linux, programming, and building reliable systems."
+   headline = "Linux, programación y creación de servidores confiables."
    bio = "Sample bio"
    links = [
      { email = "mailto:m0r4a@proton.me" },
