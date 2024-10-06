@@ -11,7 +11,7 @@ title = "Mora's tech blog"
   dateFormat = "2 January 2006"
   logo = "logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "This is my tech blog where I document battles with new tools, sharing discoveries, and trying not to drown in the vast sea of technology."
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
