@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  name = "CS50 - Python"
+  pageRef = "cs50-python"
+  weight = 11
+
+[[main]]
   pre = "github"
   name = "GitHub"
   url = "https://github.com/m0r4a"
