@@ -2,132 +2,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mora&#39;s tech blog</title>
-    <link>http://192.168.1.1:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mora&#39;s tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>m0r4a@proton.me (Gael Mora)</managingEditor>
     <webMaster>m0r4a@proton.me (Gael Mora)</webMaster>
     <copyright>© 2024 Gael Mora</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.1:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 9: Et Cetera</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_9/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_9/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_9/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_9/</guid>
       <description>A set is a collection of unique elements. It is an unordered collection of items. Sets are used to store multiple items in a single variable. It is a collection data type in Python.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_9/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_9/featured.jpg" />
     </item>
     
     <item>
       <title>Week 8: Object-Oriented Programming</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_8/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_8/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_8/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_8/</guid>
       <description>This week outlines the principles of OOP, including classes, objects, and inheritance, emphasizing how these concepts facilitate code organization and reuse.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_8/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_8/featured.jpg" />
     </item>
     
     <item>
       <title>Week 7: Regular Expressions</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_7/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_7/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_7/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_7/</guid>
       <description>This week explores regular expressions as powerful tools for string matching and validation, detailing how to use them effectively within Python programs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_7/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_7/featured.jpg" />
     </item>
     
     <item>
       <title>Week 6: File I/O</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_6/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_6/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_6/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_6/</guid>
       <description>This week covers file input/output operations, explaining how to read and write data, manage file formats like CSV, and manipulate data structures such as lists and dictionaries.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_6/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_6/featured.jpg" />
     </item>
     
     <item>
       <title>Week 5: Unit Tests</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_5/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_5/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_5/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_5/</guid>
       <description>This week highlights the importance of testing in software development, discussing unit tests and the use of frameworks like pytest to ensure code quality and reliability.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_5/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_5/featured.jpg" />
     </item>
     
     <item>
       <title>Week 4: Libraries</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_4/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_4/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_4/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_4/</guid>
       <description>This week introduces the concept of libraries and modules in Python, explaining how to import and use them, along with mentioning popular libraries for statistical analysis and file handling.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_4/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_4/featured.jpg" />
     </item>
     
     <item>
       <title>Week 3: Exceptions</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_3/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_3/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_3/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_3/</guid>
       <description>This week focuses on error management in Python, detailing different types of exceptions and methods to handle them, ensuring robust and error-free code execution.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_3/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_3/featured.jpg" />
     </item>
     
     <item>
       <title>Week 2: Loops</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_2/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_2/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_2/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_2/</guid>
       <description>This week focuses on loops in programming, detailing how to iterate over data structures using for and while loops, and discussing concepts such as nested loops and list iteration.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_2/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_2/featured.jpg" />
     </item>
     
     <item>
       <title>Week 1: Conditionals</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_1/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_1/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_1/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_1/</guid>
       <description>This week discusses control flow elements like conditionals and logical operators, which are essential for making decisions in code and controlling how it executes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_1/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_1/featured.jpg" />
     </item>
     
     <item>
       <title>Week 0: Functions, Variables</title>
-      <link>http://192.168.1.1:1313/cs50-python/week_0/</link>
+      <link>http://localhost:1313/projects/cs50-python/week_0/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/cs50-python/week_0/</guid>
+      <guid>http://localhost:1313/projects/cs50-python/week_0/</guid>
       <description>This week covers fundamental programming concepts including functions, data types, and debugging techniques, providing a foundational understanding for writing and troubleshooting code.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/cs50-python/week_0/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_0/featured.jpg" />
     </item>
     
     <item>
       <title>Python Quick Guide</title>
-      <link>http://192.168.1.1:1313/posts/python_basics/</link>
+      <link>http://localhost:1313/posts/python_basics/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/posts/python_basics/</guid>
+      <guid>http://localhost:1313/posts/python_basics/</guid>
       <description>This is another test post in which I give a really simple and brief python guide</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/posts/python_basics/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/python_basics/featured.jpeg" />
     </item>
     
     <item>
       <title>The History of Linux</title>
-      <link>http://192.168.1.1:1313/posts/linux_history/</link>
+      <link>http://localhost:1313/posts/linux_history/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/posts/linux_history/</guid>
+      <guid>http://localhost:1313/posts/linux_history/</guid>
       <description>This is a post where I summarize the history of linux, it is a test post.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/posts/linux_history/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux_history/featured.jpg" />
     </item>
     
   </channel>

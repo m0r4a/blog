@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog de Mora</title>
-    <link>http://192.168.1.1:1313/es/posts/</link>
+    <link>http://localhost:1313/es/posts/</link>
     <description>Recent content in Posts on Blog de Mora</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>m0r4a@proton.me (Gael Mora)</managingEditor>
     <webMaster>m0r4a@proton.me (Gael Mora)</webMaster>
     <copyright>© 2024 Gael Mora</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.1:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guía rápida de Python</title>
-      <link>http://192.168.1.1:1313/es/posts/python_basics/</link>
+      <link>http://localhost:1313/es/posts/python_basics/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/es/posts/python_basics/</guid>
+      <guid>http://localhost:1313/es/posts/python_basics/</guid>
       <description>Este es otro post de prueba en donde hice una simple y resumida guía de python.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/posts/python_basics/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/python_basics/featured.jpeg" />
     </item>
     
     <item>
       <title>La historia de Linux</title>
-      <link>http://192.168.1.1:1313/es/posts/linux_history/</link>
+      <link>http://localhost:1313/es/posts/linux_history/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://192.168.1.1:1313/es/posts/linux_history/</guid>
+      <guid>http://localhost:1313/es/posts/linux_history/</guid>
       <description>Este es un post en donde hago un resumen de la historia de linux, es un test de prueba.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.1:1313/posts/linux_history/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux_history/featured.jpg" />
     </item>
     
   </channel>
