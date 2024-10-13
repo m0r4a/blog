@@ -66,4 +66,20 @@
       href="http://localhost:1313/es/posts/"
     />
   </url>
+  <url>
+    <loc>http://localhost:1313/es/posts/local-network-switching/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/local-network-switching/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/posts/local-network-switching/"
+    />
+  </url>
 </urlset>

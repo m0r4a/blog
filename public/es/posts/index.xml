@@ -30,5 +30,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux_history/featured.jpg" />
     </item>
     
+    <item>
+      <title>Conmutación de Redes Locales - Proyecto Final</title>
+      <link>http://localhost:1313/es/posts/local-network-switching/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/es/posts/local-network-switching/</guid>
+      <description>Este fue mi proyecto final de la clase de conmutación de redes locales, es un documento acerca de la implementación de todos los temas vistos durante el semestre</description>
+      
+    </item>
+    
   </channel>
 </rss>
