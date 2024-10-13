@@ -37,7 +37,7 @@
       <author>m0r4a@proton.me (Gael Mora)</author>
       <guid>http://localhost:1313/posts/local-network-switching/</guid>
       <description>This was my final project of the local network switching class, it is a document about the implementation of all the topics seen during the semester.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/local-network-switching/featured.jpg" />
     </item>
     
   </channel>
