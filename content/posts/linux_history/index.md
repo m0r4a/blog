@@ -16,7 +16,7 @@ Linux is an **open-source** operating system that dates back to the early 1990s.
 
 - **August 25, 1991**:  
   Linus posted a now-famous message on the Usenet group `comp.os.minix`, stating:
-  
+
   > "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu)..."
 
 - **October 1991**:  

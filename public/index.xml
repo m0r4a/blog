@@ -9,7 +9,7 @@
     <managingEditor>m0r4a@proton.me (Gael Mora)</managingEditor>
     <webMaster>m0r4a@proton.me (Gael Mora)</webMaster>
     <copyright>© 2024 Gael Mora</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 9: Et Cetera</title>
       <link>http://localhost:1313/projects/cs50-python/week_9/</link>
@@ -108,6 +108,16 @@
       <guid>http://localhost:1313/projects/cs50-python/week_0/</guid>
       <description>This week covers fundamental programming concepts including functions, data types, and debugging techniques, providing a foundational understanding for writing and troubleshooting code.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_0/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Summary of Cryptography Exam 2</title>
+      <link>http://localhost:1313/posts/cripto_examen_2_resumen/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/cripto_examen_2_resumen/</guid>
+      <description>This post is a rewrite of the summary document provided by the professor that includes only the topics from exam 2.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cripto_examen_2_resumen/featured.jpg" />
     </item>
     
     <item>

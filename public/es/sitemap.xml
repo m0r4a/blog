@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/es/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,38 @@
       rel="alternate"
       hreflang="es"
       href="http://localhost:1313/es/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/es/posts/</loc>
+    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/es/posts/cripto_examen_2_resumen/</loc>
+    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/cripto_examen_2_resumen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/posts/cripto_examen_2_resumen/"
     />
   </url>
   <url>
@@ -48,22 +80,6 @@
       rel="alternate"
       hreflang="es"
       href="http://localhost:1313/es/posts/linux_history/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/es/posts/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/posts/"
     />
   </url>
   <url>
