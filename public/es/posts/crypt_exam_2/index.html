@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
+<html lang="es" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
-  <meta http-equiv="content-language" content="en" />
+  <meta http-equiv="content-language" content="es" />
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Python Quick Guide &middot; Mora&#39;s tech blog</title>
-  <meta name="title" content="Python Quick Guide &middot; Mora&#39;s tech blog" />
+  <title>Resumen del examen 2 de Criptografía &middot; Blog de Mora</title>
+  <meta name="title" content="Resumen del examen 2 de Criptografía &middot; Blog de Mora" />
   
-  <meta name="description" content="This is another test post in which I give a really simple and brief python guide" />
+  <meta name="description" content="Este post es una re-escritura del documento de resumen dado por el profesor que incluye solo los temas del examen 2." />
   
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/python_basics/" />
+  <link rel="canonical" href="http://localhost:1313/es/posts/crypt_exam_2/" />
   
   
   
@@ -66,22 +66,22 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/posts/python_basics/">
-  <meta property="og:site_name" content="Mora&#39;s tech blog">
-  <meta property="og:title" content="Python Quick Guide">
-  <meta property="og:description" content="This is a really small and compact tutorial of Python, this is just a testfile to try code-related .md features.">
-  <meta property="og:locale" content="en">
+  <meta property="og:url" content="http://localhost:1313/es/posts/crypt_exam_2/">
+  <meta property="og:site_name" content="Blog de Mora">
+  <meta property="og:title" content="Resumen del examen 2 de Criptografía">
+  <meta property="og:description" content="Es una re-escritura del documento de resumen de la clase de Criptografía.">
+  <meta property="og:locale" content="es">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2024-10-04T00:00:00+00:00">
-    <meta property="article:modified_time" content="2024-10-04T00:00:00+00:00">
-    <meta property="og:image" content="http://localhost:1313/posts/python_basics/featured.jpeg">
+    <meta property="article:published_time" content="2024-10-22T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-10-22T00:00:00+00:00">
+    <meta property="og:image" content="http://localhost:1313/posts/crypt_exam_2/featured.jpg">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/posts/python_basics/featured.jpeg">
-  <meta name="twitter:title" content="Python Quick Guide">
-  <meta name="twitter:description" content="This is a really small and compact tutorial of Python, this is just a testfile to try code-related .md features.">
+  <meta name="twitter:image" content="http://localhost:1313/posts/crypt_exam_2/featured.jpg">
+  <meta name="twitter:title" content="Resumen del examen 2 de Criptografía">
+  <meta name="twitter:description" content="Es una re-escritura del documento de resumen de la clase de Criptografía.">
 
   
   <script type="application/ld+json">
@@ -89,26 +89,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "Python Quick Guide",
-    "headline": "Python Quick Guide",
-    "description": "This is a really small and compact tutorial of Python, this is just a testfile to try code-related .md features.",
-    "abstract": "This is another test post in which I give a really simple and brief python guide",
-    "inLanguage": "en",
-    "url" : "http:\/\/localhost:1313\/posts\/python_basics\/",
+    "name": "Resumen del examen 2 de Criptografía",
+    "headline": "Resumen del examen 2 de Criptografía",
+    "description": "Es una re-escritura del documento de resumen de la clase de Criptografía.",
+    "abstract": "Este post es una re-escritura del documento de resumen dado por el profesor que incluye solo los temas del examen 2.",
+    "inLanguage": "es",
+    "url" : "http:\/\/localhost:1313\/es\/posts\/crypt_exam_2\/",
     "author" : {
       "@type": "Person",
       "name": "Gael Mora"
     },
     "copyrightYear": "2024",
-    "dateCreated": "2024-10-04T00:00:00\u002b00:00",
-    "datePublished": "2024-10-04T00:00:00\u002b00:00",
+    "dateCreated": "2024-10-22T00:00:00\u002b00:00",
+    "datePublished": "2024-10-22T00:00:00\u002b00:00",
     
-    "dateModified": "2024-10-04T00:00:00\u002b00:00",
+    "dateModified": "2024-10-22T00:00:00\u002b00:00",
     
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "220"
+    "wordCount": "1194"
   }]
   </script>
 
@@ -170,7 +170,7 @@
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
       href="#main-content"><span
-        class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>Skip to main content</a>
+        class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>Ir al contenido</a>
   </div>
   
   
@@ -184,12 +184,12 @@
     
     
     <div>
-        <a href="/" class="flex">
-            <span class="sr-only">Mora&rsquo;s tech blog</span>
+        <a href="/es/" class="flex">
+            <span class="sr-only">Blog de Mora</span>
 
             
             <img src="/logo.png" width="402" height="402"
-                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Mora&#39;s tech blog" />
+                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Blog de Mora" />
             
 
         </a>
@@ -199,7 +199,7 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">Mora&rsquo;s tech blog</a>
+            <a href="/es/" class="text-base font-medium text-gray-500 hover:text-gray-900">Blog de Mora</a>
             
 
         </nav>
@@ -208,21 +208,10 @@
             
             
             
-  <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/es/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
         Blog
-    </p>
-</a>
-
-
-
-            
-            
-  <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-base font-medium" title="">
-        Projects
     </p>
 </a>
 
@@ -266,20 +255,20 @@
 
 
     </span>
-    <div class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Python Quick Guide">EN</div>
+    <div class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Resumen del examen 2 de Criptografía">ES</div>
   </div>
   <div class="absolute menuhide">
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
         
-        <a href="/posts/python_basics/" class="flex items-center">
-          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Python Quick Guide">
+        <a href="/posts/crypt_exam_2/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Summary of Cryptography Exam 2">
             English
           </p>
         </a>
         
-        <a href="/es/posts/python_basics/" class="flex items-center">
-          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Guía rápida de Python">
+        <a href="/es/posts/crypt_exam_2/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Resumen del examen 2 de Criptografía">
             Español
           </p>
         </a>
@@ -353,20 +342,20 @@
 
 
     </span>
-    <div class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Python Quick Guide">EN</div>
+    <div class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Resumen del examen 2 de Criptografía">ES</div>
   </div>
   <div class="absolute menuhide">
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
         
-        <a href="/posts/python_basics/" class="flex items-center">
-          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Python Quick Guide">
+        <a href="/posts/crypt_exam_2/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Summary of Cryptography Exam 2">
             English
           </p>
         </a>
         
-        <a href="/es/posts/python_basics/" class="flex items-center">
-          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Guía rápida de Python">
+        <a href="/es/posts/crypt_exam_2/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Resumen del examen 2 de Criptografía">
             Español
           </p>
         </a>
@@ -455,25 +444,10 @@
 
                     
   <li class="mt-1">
-    <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/es/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
             Blog
-        </p>
-    </a>
-</li>
-
-
-
-
-                    
-
-                    
-  <li class="mt-1">
-    <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-bg font-bg" title="">
-            Projects
         </p>
     </a>
 </li>
@@ -551,7 +525,7 @@
 
     
     <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
-    style="background-image:url(/posts/python_basics/background_hu1961534527078766706.jpg);">
+    style="background-image:url(/posts/crypt_exam_2/background_hu1961534527078766706.jpg);">
     
 
 
@@ -577,7 +551,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Python Quick Guide
+      Resumen del examen 2 de Criptografía
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -624,7 +598,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-10-04T00:00:00&#43;00:00">4 October 2024</time><span class="px-2 text-primary-500">&middot;</span><span>220 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="2024-10-22T00:00:00&#43;00:00">22 octubre 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1194 palabras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">6 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.63c8a202661f4a2063fdc2706685d668e8ea3da613da2224e9da527e5876e4f53dcac39ab60732626fb4151feae5d430d0cf44731e5d3c726522fcc1519c1547.js" integrity="sha512-Y8iiAmYfSiBj/cJwZoXWaOjqPaYT2iIk6dpSflh25PU9ysOatgcyYm&#43;0FR/q5dQw0M9Ecx5dPHJlIvzBUZwVRw=="></script>
@@ -632,9 +606,9 @@
 <span class="mb-[2px]">
     <span id="zen-mode-button"
           class="text-lg hover:text-primary-500"
-          title="Enable zen mode"
-          data-title-i18n-disable="Enable zen mode"
-          data-title-i18n-enable="Disable zen mode">
+          title="Activar modo zen"
+          data-title-i18n-disable="Activar modo zen"
+          data-title-i18n-enable="Desactivar modo zen">
         <span class="inline-block align-text-bottom">
 
   <span class="relative block icon">
@@ -683,34 +657,45 @@
   class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
   <summary
     class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
+    Tabla de contenido
   </summary>
   <div
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#1-variables-and-data-types">1. Variables and Data Types</a></li>
-    <li><a href="#2-control-structures">2. Control Structures</a>
+    <li><a href="#administración-de-claves">Administración de claves</a>
       <ul>
-        <li><a href="#conditionals">Conditionals</a></li>
-        <li><a href="#loops">Loops</a>
+        <li><a href="#proceso-de-autenticación-y-cifrado-simétrico-con-certificados">Proceso de Autenticación y Cifrado Simétrico con Certificados</a></li>
+        <li><a href="#proceso-de-validación-y-cifrado-asimétrico-en-un-servidor-km">Proceso de Validación y Cifrado Asimétrico en un Servidor KM</a></li>
+      </ul>
+    </li>
+    <li><a href="#módulo-de-plataforma-segura-y-usos-de-tpm">Módulo de plataforma segura y usos de TPM</a>
+      <ul>
+        <li><a href="#distintos-usos-para-el-chip-tpm">Distintos usos para el chip TPM</a></li>
+        <li><a href="#componentes-del-chip">Componentes del chip</a></li>
+      </ul>
+    </li>
+    <li><a href="#seguridad-en-internet">Seguridad en Internet</a>
+      <ul>
+        <li><a href="#el-problema-de-la-seguridad-en-el-manejo-de-contraseñas">El problema de la seguridad en el manejo de contraseñas</a>
           <ul>
-            <li><a href="#for-loop">For Loop</a></li>
-            <li><a href="#while-loop">While Loop</a></li>
+            <li><a href="#almacenamiento">Almacenamiento</a></li>
+            <li><a href="#funciones-hash">Funciones Hash</a></li>
+            <li><a href="#reconocimiento">Reconocimiento</a></li>
+            <li><a href="#velocidad">Velocidad</a></li>
+            <li><a href="#sal">Sal</a></li>
+            <li><a href="#pimienta">Pimienta</a></li>
+            <li><a href="#extensión">Extensión</a></li>
+            <li><a href="#ssl-handshake">SSL Handshake</a></li>
+            <li><a href="#ssl-récord">SSL Récord</a></li>
+            <li><a href="#file-transfer-protocol">File Transfer Protocol</a></li>
+            <li><a href="#file-transfer-protocol--ssl">File Transfer Protocol / SSL:</a></li>
+            <li><a href="#ssh-file-transfer-protocol">SSH File Transfer Protocol</a></li>
+            <li><a href="#secure-copy-protocol">Secure Copy Protocol</a></li>
           </ul>
         </li>
       </ul>
     </li>
-    <li><a href="#3-functions">3. Functions</a></li>
-    <li><a href="#4-lists-and-dictionaries">4. Lists and Dictionaries</a>
-      <ul>
-        <li><a href="#lists">Lists</a></li>
-        <li><a href="#dictionaries">Dictionaries</a></li>
-      </ul>
-    </li>
-    <li><a href="#5-modules">5. Modules</a></li>
-    <li><a href="#6-exception-handling">6. Exception Handling</a></li>
-    <li><a href="#7-list-comprehensions">7. List Comprehensions</a></li>
   </ul>
 </nav>
   </div>
@@ -718,34 +703,45 @@
 <details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
   <summary
     class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
+    Tabla de contenido
   </summary>
   <div
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#1-variables-and-data-types">1. Variables and Data Types</a></li>
-    <li><a href="#2-control-structures">2. Control Structures</a>
+    <li><a href="#administración-de-claves">Administración de claves</a>
       <ul>
-        <li><a href="#conditionals">Conditionals</a></li>
-        <li><a href="#loops">Loops</a>
+        <li><a href="#proceso-de-autenticación-y-cifrado-simétrico-con-certificados">Proceso de Autenticación y Cifrado Simétrico con Certificados</a></li>
+        <li><a href="#proceso-de-validación-y-cifrado-asimétrico-en-un-servidor-km">Proceso de Validación y Cifrado Asimétrico en un Servidor KM</a></li>
+      </ul>
+    </li>
+    <li><a href="#módulo-de-plataforma-segura-y-usos-de-tpm">Módulo de plataforma segura y usos de TPM</a>
+      <ul>
+        <li><a href="#distintos-usos-para-el-chip-tpm">Distintos usos para el chip TPM</a></li>
+        <li><a href="#componentes-del-chip">Componentes del chip</a></li>
+      </ul>
+    </li>
+    <li><a href="#seguridad-en-internet">Seguridad en Internet</a>
+      <ul>
+        <li><a href="#el-problema-de-la-seguridad-en-el-manejo-de-contraseñas">El problema de la seguridad en el manejo de contraseñas</a>
           <ul>
-            <li><a href="#for-loop">For Loop</a></li>
-            <li><a href="#while-loop">While Loop</a></li>
+            <li><a href="#almacenamiento">Almacenamiento</a></li>
+            <li><a href="#funciones-hash">Funciones Hash</a></li>
+            <li><a href="#reconocimiento">Reconocimiento</a></li>
+            <li><a href="#velocidad">Velocidad</a></li>
+            <li><a href="#sal">Sal</a></li>
+            <li><a href="#pimienta">Pimienta</a></li>
+            <li><a href="#extensión">Extensión</a></li>
+            <li><a href="#ssl-handshake">SSL Handshake</a></li>
+            <li><a href="#ssl-récord">SSL Récord</a></li>
+            <li><a href="#file-transfer-protocol">File Transfer Protocol</a></li>
+            <li><a href="#file-transfer-protocol--ssl">File Transfer Protocol / SSL:</a></li>
+            <li><a href="#ssh-file-transfer-protocol">SSH File Transfer Protocol</a></li>
+            <li><a href="#secure-copy-protocol">Secure Copy Protocol</a></li>
           </ul>
         </li>
       </ul>
     </li>
-    <li><a href="#3-functions">3. Functions</a></li>
-    <li><a href="#4-lists-and-dictionaries">4. Lists and Dictionaries</a>
-      <ul>
-        <li><a href="#lists">Lists</a></li>
-        <li><a href="#dictionaries">Dictionaries</a></li>
-      </ul>
-    </li>
-    <li><a href="#5-modules">5. Modules</a></li>
-    <li><a href="#6-exception-handling">6. Exception Handling</a></li>
-    <li><a href="#7-list-comprehensions">7. List Comprehensions</a></li>
   </ul>
 </nav>
   </div>
@@ -791,207 +787,398 @@
         <div class="article-content max-w-prose mb-20">
           
 
-<h2 class="relative group">1. Variables and Data Types 
-    <div id="1-variables-and-data-types" class="anchor"></div>
+<h2 class="relative group">Administración de claves 
+    <div id="administraci%C3%B3n-de-claves" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#1-variables-and-data-types" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#administraci%C3%B3n-de-claves" aria-label="Ancla">#</a>
     </span>        
     
 </h2>
-<p>In Python, variables are declared by simply assigning them a value:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">name</span> <span class="o">=</span> <span class="s2">&#34;Alice&#34;</span>  <span class="c1"># String</span>
-</span></span><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="mi">25</span>        <span class="c1"># Integer</span>
-</span></span><span class="line"><span class="cl"><span class="n">height</span> <span class="o">=</span> <span class="mf">1.65</span>   <span class="c1"># Float</span>
-</span></span><span class="line"><span class="cl"><span class="n">is_student</span> <span class="o">=</span> <span class="kc">True</span>  <span class="c1"># Boolean</span>
-</span></span></code></pre></div>
+<p>Es administrar las llaves durante todo su tiempo de vida, desde que son creadas hasta que son destruidas, esto incluye el uso, almacenamiento, la asignación, la creación, y destrucción de estas.</p>
+<p>Esto nos permite mantener un ecosistema seguro, de manera que cada usuario puede tener acceso a diferentes permisos con una sola llave, como el funcionamiento de las antiguas llaves maestras.</p>
+<p>Las llaves pueden ser simétricas (una sola llave) para información que va a estar “en reposo” (es decir que no va a viajar a través de algún medio) como las propias llaves, o asimétricas (dos llaves) para información que va a estar “viajando” entre distintos medios.</p>
+<p>Normalmente se utiliza una mezcla de los dos sistemas criptográficos, usando un sistema asimétrico para enviar una llave simétrica, ya que la criptografía simétrica es más rápida, pero no puede transmitir por sí misma la llave de forma segura, por lo que se usa un sistema asimétrico para compartir la llave.</p>
+<p>Las llaves simétricas se encuentran cifradas de manera simétrica en un servidor KM (key manager), de manera que el usuario tiene que mandar su certificado (criptografía asimétrica) al servidor KM para compararlo con la autoridad certificadora, y le diga si es en realidad quien dice ser.</p>
+<p>Una vez hecho esto, el servidor envía su certificado al cliente para establecer una conexión, y luego el servidor KM descifra la llave simétrica (con otra llave simétrica) y se la manda al usuario a través de un canal TLS.</p>
+<p>Las llaves asimétricas conllevan un camino similar, solo que en vez de usar un canal TLS, utiliza la llave pública de los cifrados de cada uno (usuario y servidor) para compartir de manera segura una llave simétrica por medio de un canal (que pudiera no ser seguro), y a su vez la información encriptada con la llave simétrica.</p>
 
-<h2 class="relative group">2. Control Structures 
-    <div id="2-control-structures" class="anchor"></div>
+
+<h3 class="relative group">Proceso de Autenticación y Cifrado Simétrico con Certificados 
+    <div id="proceso-de-autenticaci%C3%B3n-y-cifrado-sim%C3%A9trico-con-certificados" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#2-control-structures" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Conditionals 
-    <div id="conditionals" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#conditionals" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">if</span> <span class="n">age</span> <span class="o">&gt;=</span> <span class="mi">18</span><span class="p">:</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;You are an adult&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="k">elif</span> <span class="n">age</span> <span class="o">&gt;=</span> <span class="mi">13</span><span class="p">:</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;You are a teenager&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="k">else</span><span class="p">:</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;You are a child&#34;</span><span class="p">)</span>
-</span></span></code></pre></div>
-
-<h3 class="relative group">Loops 
-    <div id="loops" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#loops" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#proceso-de-autenticaci%C3%B3n-y-cifrado-sim%C3%A9trico-con-certificados" aria-label="Ancla">#</a>
     </span>        
     
 </h3>
 
+<figure>
+        <img
+          class="my-0 rounded-md nozoom mx-auto"
+          src="/posts/crypt_exam_2/resources/cifrado_simetrico.svg"
+          alt="Imagen de como se ve el cifrado simétrico en un servidor"
+        />
+  
+  
+  </figure>
 
-<h4 class="relative group">For Loop 
-    <div id="for-loop" class="anchor"></div>
+
+<h3 class="relative group">Proceso de Validación y Cifrado Asimétrico en un Servidor KM 
+    <div id="proceso-de-validaci%C3%B3n-y-cifrado-asim%C3%A9trico-en-un-servidor-km" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#for-loop" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#proceso-de-validaci%C3%B3n-y-cifrado-asim%C3%A9trico-en-un-servidor-km" aria-label="Ancla">#</a>
+    </span>        
+    
+</h3>
+
+<figure>
+        <img
+          class="my-0 rounded-md nozoom mx-auto"
+          src="/posts/crypt_exam_2/resources/cifrado_asimetrico.svg"
+          alt="Imagen de como se ve el cifrado asimétrico en un servidor"
+        />
+  
+  
+  </figure>
+
+
+<h2 class="relative group">Módulo de plataforma segura y usos de TPM 
+    <div id="m%C3%B3dulo-de-plataforma-segura-y-usos-de-tpm" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#m%C3%B3dulo-de-plataforma-segura-y-usos-de-tpm" aria-label="Ancla">#</a>
+    </span>        
+    
+</h2>
+<p>Es básicamente un cripto-procesador, un chip físico que puede venir como un aditamento, como es el caso de la fotografía, o puede estar incrustado en la placa base. Este chip se encarga de almacenar llaves y procesar sistemas criptográficos complejos, de manera que asiste al procesador (CPU), al mismo tiempo que es más seguro ya que únicamente puede conectarse con el procesador, evitando que algún hardware desconocido pueda copiar las llaves o modificar su funcionamiento.</p>
+<p>Entre las cosas que se pueden hacer, el TPM puede validar tu identidad utilizando llaves específicas del cripto-procesador (que no pueden ser modificadas) o incluso llaves de otras aplicaciones que son almacenadas dentro del mismo.</p>
+<p>También puede validar el sistema operativo, analizando componentes firmados, y si las firmas no coinciden, es porque probablemente el archivo ha sido modificado, lo que podría indicar algún tipo de infección (normalmente esto mismo evita el “secure boot”).</p>
+
+
+<h3 class="relative group">Distintos usos para el chip TPM 
+    <div id="distintos-usos-para-el-chip-tpm" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#distintos-usos-para-el-chip-tpm" aria-label="Ancla">#</a>
+    </span>        
+    
+</h3>
+<ol>
+<li>DRM (Digital Rights Management)</li>
+<li>Cifrado de archivos y carpetas</li>
+<li>Correo electrónico seguro</li>
+<li>SSL</li>
+<li>VPN</li>
+<li>Contraseñas de uso único</li>
+<li>Administración de cuentas</li>
+<li>Two-Factor Authentication con las llaves del chip</li>
+</ol>
+
+
+<h3 class="relative group">Componentes del chip 
+    <div id="componentes-del-chip" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#componentes-del-chip" aria-label="Ancla">#</a>
+    </span>        
+    
+</h3>
+<ol>
+<li>Generador de números aleatorios</li>
+<li>Generación de claves criptográficas</li>
+<li>Almacenamiento seguro de llaves</li>
+<li>Hashes</li>
+</ol>
+
+
+<h2 class="relative group">Seguridad en Internet 
+    <div id="seguridad-en-internet" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#seguridad-en-internet" aria-label="Ancla">#</a>
+    </span>        
+    
+</h2>
+<p>Encontramos la criptografía en muchos lugares distintos, sobre todo en donde se ocupe algún tipo de autenticación, sobre todo cuando se usan contraseñas o certificados.</p>
+<p>Existen 3 métodos de autenticación:</p>
+
+<figure>
+        <img
+          class="my-0 rounded-md nozoom mx-auto"
+          src="/posts/crypt_exam_2/resources/metodos_de_auth.svg"
+          alt="Tipos de métodos de autentificación"
+        />
+  
+  
+  </figure>
+<p>La criptografía simétrica es para la información que no se encuentra en tráfico, por su velocidad y facilidad de manejo de llave.</p>
+<p>La criptografía asimétrica es para la información que está en tránsito, normalmente se utiliza para el manejo de sesiones, y una vez establecida la conexión se usa criptografía simétrica para el envío de grandes volúmenes de información.</p>
+
+
+<h3 class="relative group">El problema de la seguridad en el manejo de contraseñas 
+    <div id="el-problema-de-la-seguridad-en-el-manejo-de-contrase%C3%B1as" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#el-problema-de-la-seguridad-en-el-manejo-de-contrase%C3%B1as" aria-label="Ancla">#</a>
+    </span>        
+    
+</h3>
+
+
+<h4 class="relative group">Almacenamiento 
+    <div id="almacenamiento" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#almacenamiento" aria-label="Ancla">#</a>
     </span>        
     
 </h4>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">5</span><span class="p">):</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>  <span class="c1"># Prints 0 to 4</span>
-</span></span></code></pre></div>
+<p>Las contraseñas no deben ser guardadas en texto plano, por lo que surge la idea de almacenarlas como el hash de esta, de manera que, si un atacante las roba, no pueda revertirlas.</p>
 
-<h4 class="relative group">While Loop 
-    <div id="while-loop" class="anchor"></div>
+
+<h4 class="relative group">Funciones Hash 
+    <div id="funciones-hash" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#while-loop" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#funciones-hash" aria-label="Ancla">#</a>
     </span>        
     
 </h4>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">counter</span> <span class="o">=</span> <span class="mi">0</span>
-</span></span><span class="line"><span class="cl"><span class="k">while</span> <span class="n">counter</span> <span class="o">&lt;</span> <span class="mi">5</span><span class="p">:</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="n">counter</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl">    <span class="n">counter</span> <span class="o">+=</span> <span class="mi">1</span>
-</span></span></code></pre></div>
 
-<h2 class="relative group">3. Functions 
-    <div id="3-functions" class="anchor"></div>
+  
+  
+  
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    >Funciones de hash criptográficas ≠ Funciones de hash de contraseñas</span>
+</div>
+
+<p>El principal problema es que las funciones de hash criptográficas no están diseñadas para las contraseñas. Tienden a ser muy rápidas, y en general esto sería bueno, si no fuera porque esto beneficia a un atacante que quiera hacer un ataque de fuerza bruta.</p>
+
+
+<h4 class="relative group">Reconocimiento 
+    <div id="reconocimiento" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#3-functions" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#reconocimiento" aria-label="Ancla">#</a>
     </span>        
     
-</h2>
-<p>Defining and using functions:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">greet</span><span class="p">(</span><span class="n">name</span><span class="p">):</span>
-</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="sa">f</span><span class="s2">&#34;Hello, </span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s2">!&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="n">message</span> <span class="o">=</span> <span class="n">greet</span><span class="p">(</span><span class="s2">&#34;John&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">message</span><span class="p">)</span>  <span class="c1"># Prints: Hello, John!</span>
-</span></span></code></pre></div>
+</h4>
+<p>El primer paso a tomar es buscar si la contraseña ya se encuentra en alguna rainbow table en internet, o similar; en caso contrario, se procede a hacer el ataque de fuerza bruta.</p>
 
-<h2 class="relative group">4. Lists and Dictionaries 
-    <div id="4-lists-and-dictionaries" class="anchor"></div>
+
+<h4 class="relative group">Velocidad 
+    <div id="velocidad" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#4-lists-and-dictionaries" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#velocidad" aria-label="Ancla">#</a>
     </span>        
     
-</h2>
+</h4>
+<p>La velocidad juega un papel crucial, por lo que si el método de hashing es muy rápido (por decir 0.1 segundos), la contraseña puede ser rota en relativamente poco tiempo, por lo que buscamos mantener el proceso de hashing por encima de 0.1 segundos, preferentemente cerca de 1 segundo de velocidad.</p>
 
 
-<h3 class="relative group">Lists 
-    <div id="lists" class="anchor"></div>
+<h4 class="relative group">Sal 
+    <div id="sal" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#lists" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#sal" aria-label="Ancla">#</a>
     </span>        
     
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">fruits</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&#34;apple&#34;</span><span class="p">,</span> <span class="s2">&#34;banana&#34;</span><span class="p">,</span> <span class="s2">&#34;cherry&#34;</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="n">fruits</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&#34;date&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">fruits</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>  <span class="c1"># Prints: banana</span>
-</span></span></code></pre></div>
+</h4>
+<p>La sal es un conjunto de letras generadas aleatoriamente para cada usuario que cambian el hash de salida, lo que dificulta al atacante (computacionalmente imposible) encontrar la contraseña del usuario generada en una rainbow table en internet.</p>
 
-<h3 class="relative group">Dictionaries 
-    <div id="dictionaries" class="anchor"></div>
+
+<h4 class="relative group">Pimienta 
+    <div id="pimienta" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#dictionaries" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#pimienta" aria-label="Ancla">#</a>
     </span>        
     
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">person</span> <span class="o">=</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="s2">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Charles&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="s2">&#34;age&#34;</span><span class="p">:</span> <span class="mi">30</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="s2">&#34;city&#34;</span><span class="p">:</span> <span class="s2">&#34;New York&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">person</span><span class="p">[</span><span class="s2">&#34;city&#34;</span><span class="p">])</span>  <span class="c1"># Prints: New York</span>
-</span></span></code></pre></div>
+</h4>
+<p>Igual que la sal, la pimienta también cambia el hash final, pero suele estar dentro del código fuente. Esto es útil si por algún motivo la base de datos donde estamos guardando las contraseñas no es segura, o no podemos confiar en el tráfico desde la aplicación hasta la base de datos. Podemos agregar pimienta al código fuente como medida extra de seguridad.</p>
 
-<h2 class="relative group">5. Modules 
-    <div id="5-modules" class="anchor"></div>
+
+<h4 class="relative group">Extensión 
+    <div id="extensi%C3%B3n" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#5-modules" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#extensi%C3%B3n" aria-label="Ancla">#</a>
     </span>        
     
-</h2>
-<p>Importing and using modules:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">random</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="n">number</span> <span class="o">=</span> <span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Random number: </span><span class="si">{</span><span class="n">number</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
-</span></span></code></pre></div>
+</h4>
+<ul>
+<li>PBKDF2</li>
+<li>bcrypt</li>
+<li>scrypt</li>
+<li>Argon2</li>
+</ul>
+<p>En estos algoritmos lo que se busca es iterar el uso de distintos hashes y sales para demorar el proceso de obtención del hash de la contraseña, y de esta manera fortalecer nuestra aplicación contra ataques de fuerza bruta.</p>
+<p>El ataque POODLE (del inglés &ldquo;Padding Oracle On Downgraded Legacy Encryption&rdquo;) es relevante aquí. Para SSL 3.0 solo se necesitaban 256 solicitudes para revelar un byte de la comunicación. Este ataque aprovecha un mecanismo que reduce la seguridad con el fin de mantener interoperabilidad.</p>
+<p>Para TLS 1.0 a 1.2, el ataque se basa en fallas en el cifrado CBC.</p>
 
-<h2 class="relative group">6. Exception Handling 
-    <div id="6-exception-handling" class="anchor"></div>
+
+<h4 class="relative group">SSL Handshake 
+    <div id="ssl-handshake" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#6-exception-handling" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#ssl-handshake" aria-label="Ancla">#</a>
     </span>        
     
-</h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">try</span><span class="p">:</span>
-</span></span><span class="line"><span class="cl">    <span class="n">result</span> <span class="o">=</span> <span class="mi">10</span> <span class="o">/</span> <span class="mi">0</span>
-</span></span><span class="line"><span class="cl"><span class="k">except</span> <span class="ne">ZeroDivisionError</span><span class="p">:</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Error: Division by zero&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="k">finally</span><span class="p">:</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Operation completed&#34;</span><span class="p">)</span>
-</span></span></code></pre></div>
+</h4>
+<p>Se utiliza para establecer el método de encriptación que se va a mantener a lo largo de la comunicación y los datos de la sesión.</p>
+<ol>
+<li>Contacto y establecimiento de capacidades:
+<ul>
+<li>RSA</li>
+<li>Diffie-Hellman Autenticado</li>
+<li>Diffie-Hellman Anónimo</li>
+<li>Fortezza</li>
+</ul>
+</li>
+<li>Intercambio de llaves y autenticación del servidor</li>
+<li>Intercambio de llaves y autenticación del cliente</li>
+<li>Finalización del protocolo (aquí se crean las llaves de sesión)</li>
+</ol>
 
-<h2 class="relative group">7. List Comprehensions 
-    <div id="7-list-comprehensions" class="anchor"></div>
+
+<h4 class="relative group">SSL Récord 
+    <div id="ssl-r%C3%A9cord" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#7-list-comprehensions" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#ssl-r%C3%A9cord" aria-label="Ancla">#</a>
     </span>        
     
-</h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">squares</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="o">**</span><span class="mi">2</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">5</span><span class="p">)]</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">squares</span><span class="p">)</span>  <span class="c1"># Prints: [0, 1, 4, 9, 16]</span>
-</span></span></code></pre></div><hr>
-<p><strong>Note</strong>: This guide covers the basics of Python. For more information, please refer to the <a href="https://docs.python.org/" target="_blank">official Python documentation</a>.</p>
+</h4>
+<p>Se utiliza para transmitir información entre cliente y servidor.</p>
+<ol>
+<li>Datos del mensaje</li>
+<li>Fragmentación del mensaje</li>
+<li>Compresión de los fragmentos</li>
+<li>Agregado de un código de autenticación de mensaje</li>
+<li>Cifrado de los datos</li>
+<li>Agregado de un encabezado</li>
+<li>Envío del criptograma a través de TCP</li>
+</ol>
+
+
+<h4 class="relative group">File Transfer Protocol 
+    <div id="file-transfer-protocol" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#file-transfer-protocol" aria-label="Ancla">#</a>
+    </span>        
+    
+</h4>
+<p>No contiene ninguna capa de seguridad.</p>
+
+
+<h4 class="relative group">File Transfer Protocol / SSL: 
+    <div id="file-transfer-protocol--ssl" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#file-transfer-protocol--ssl" aria-label="Ancla">#</a>
+    </span>        
+    
+</h4>
+<p>Es el mismo protocolo FTP pero sobre el protocolo SSL (actualmente TLS).</p>
+
+
+<h4 class="relative group">SSH File Transfer Protocol 
+    <div id="ssh-file-transfer-protocol" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ssh-file-transfer-protocol" aria-label="Ancla">#</a>
+    </span>        
+    
+</h4>
+<p>Es un protocolo creado desde cero, muy diferente a FTP, que funciona basado en SSH.</p>
+
+
+<h4 class="relative group">Secure Copy Protocol 
+    <div id="secure-copy-protocol" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#secure-copy-protocol" aria-label="Ancla">#</a>
+    </span>        
+    
+</h4>
+<p>Se basa en:</p>
+<ul>
+<li>SSH</li>
+<li>FTP</li>
+<li>Comandos RCP</li>
+</ul>
 
           
           
@@ -1020,14 +1207,14 @@
   <div class="place-self-center">
     
     <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
-      Author
+      Autor
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
       Gael Mora
     </div>
     
     
-    <div class="text-sm text-neutral-700 dark:text-neutral-400">IT Security student, Python and Go developer. Specialized in Linux systems administration and automation. Passionate about cloud and network infrastructure, software development and open source technologies.</div>
+    <div class="text-sm text-neutral-700 dark:text-neutral-400">Estudiante de Seguridad en TI, desarrollador de Python y Go. Especializado en administración de sistemas Linux y automatización. Apasionado por la infraestructura en la nube y redes, desarrollo de software y tecnologías open source.</div>
     
     <div class="text-2xl sm:text-lg">
   <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
@@ -1119,8 +1306,8 @@
           
         
       <script>
-        var oid = "views_posts\/python_basics\/index.md"
-        var oid_likes = "likes_posts\/python_basics\/index.md"
+        var oid = "views_posts\/crypt_exam_2\/index.md"
+        var oid_likes = "likes_posts\/crypt_exam_2\/index.md"
       </script>
       
       
@@ -1140,7 +1327,7 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/linux_history/">
+            <a class="flex group mr-3" href="/es/posts/python_basics/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -1152,11 +1339,11 @@
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >The History of Linux</span
+                  >Guía rápida de Python</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2024-10-04T00:00:00&#43;00:00">4 October 2024</time>
+                    <time datetime="2024-10-04T00:00:00&#43;00:00">4 octubre 2024</time>
                   
                 </span>
               </span>
@@ -1164,28 +1351,6 @@
           
         </span>
         <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/crypt_exam_2/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Summary of Cryptography Exam 2</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2024-10-22T00:00:00&#43;00:00">22 October 2024</time>
-                  
-                </span>
-              </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-            </a>
           
         </span>
       </div>
@@ -1200,7 +1365,7 @@
       <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
   <a href="#the-top"
     class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top" title="Scroll to top">
+    aria-label="Ir arriba" title="Ir arriba">
     &uarr;
   </a>
 </div>
@@ -1242,7 +1407,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:1313/"
+  data-url="http://localhost:1313/es/"
   style="z-index:500"
 >
   <div
@@ -1265,14 +1430,14 @@
           type="search"
           id="search-query"
           class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
-          placeholder="Search"
+          placeholder="Buscar"
           tabindex="0"
         />
       </form>
       <button
         id="close-search-button"
         class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-        title="Close (Esc)"
+        title="Cerrar (Esc)"
       >
         
 
