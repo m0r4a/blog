@@ -11,16 +11,6 @@
     <copyright>© 2024 Gael Mora</copyright>
     <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Does Max need more storage?</title>
-      <link>http://localhost:1313/posts/max_storage/</link>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://localhost:1313/posts/max_storage/</guid>
-      <description>In this post I discuss whether Max really needs more storage or not.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/max_storage/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Summary of Cryptography Exam 2</title>
       <link>http://localhost:1313/posts/crypt_exam_2/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>

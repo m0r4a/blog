@@ -1,6 +1,6 @@
 ---
 title: "Does Max need more storage?"
-draft: false
+draft: true
 date: 2024-11-05
 description: In this post I discuss whether Max really needs more storage or not.
 summary: "In this post I discuss whether Max really needs more storage or not."
