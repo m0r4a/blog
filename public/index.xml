@@ -9,7 +9,17 @@
     <managingEditor>m0r4a@proton.me (Gael Mora)</managingEditor>
     <webMaster>m0r4a@proton.me (Gael Mora)</webMaster>
     <copyright>© 2025 Gael Mora</copyright>
-    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 6: Multiarea OSPF</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_6/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_6/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lan_interconnection/chapter_6/featured.jpg" />
+    </item>
+    
     <item>
       <title>Week 9: Et Cetera</title>
       <link>http://localhost:1313/projects/cs50-python/week_9/</link>
@@ -18,6 +28,26 @@
       <guid>http://localhost:1313/projects/cs50-python/week_9/</guid>
       <description>A set is a collection of unique elements. It is an unordered collection of items. Sets are used to store multiple items in a single variable. It is a collection data type in Python.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_9/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 5: Single-Area OSPF</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_5/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_5/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lan_interconnection/chapter_5/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 5: Single-Area OSPF</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_5/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_5/</guid>
+      <description>Placeholder</description>
+      
     </item>
     
     <item>
@@ -31,6 +61,26 @@
     </item>
     
     <item>
+      <title>Chapter 4: RIP &amp; EIGRP</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_4/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_4/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lan_interconnection/chapter_4/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 4: RIP &amp; EIGRP</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_4/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_4/</guid>
+      <description>Placeholder</description>
+      
+    </item>
+    
+    <item>
       <title>Week 7: Regular Expressions</title>
       <link>http://localhost:1313/projects/cs50-python/week_7/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
@@ -38,6 +88,26 @@
       <guid>http://localhost:1313/projects/cs50-python/week_7/</guid>
       <description>This week explores regular expressions as powerful tools for string matching and validation, detailing how to use them effectively within Python programs.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_7/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 3: Dynamic Routing</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_3/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_3/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lan_interconnection/chapter_3/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 3: Dynamic Routing</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_3/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_3/</guid>
+      <description>Placeholder</description>
+      
     </item>
     
     <item>
@@ -51,6 +121,26 @@
     </item>
     
     <item>
+      <title>Chapter 2: Static Routing</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_2/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_2/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lan_interconnection/chapter_2/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 2: Static Routing</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_2/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_2/</guid>
+      <description>Placeholder</description>
+      
+    </item>
+    
+    <item>
       <title>Week 5: Unit Tests</title>
       <link>http://localhost:1313/projects/cs50-python/week_5/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
@@ -58,6 +148,26 @@
       <guid>http://localhost:1313/projects/cs50-python/week_5/</guid>
       <description>This week highlights the importance of testing in software development, discussing unit tests and the use of frameworks like pytest to ensure code quality and reliability.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cs50-python/week_5/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 1: IP Routing Overview</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_1/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_1/</guid>
+      <description>This is another test post in which I give a really simple and brief python guide</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lan_interconnection/chapter_1/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 1: IP Routing Overview</title>
+      <link>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_1/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_1/</guid>
+      <description>This is another test post in which I give a really simple and brief python guide</description>
+      
     </item>
     
     <item>
