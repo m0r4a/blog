@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_6/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -15,13 +15,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_5/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_5/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_5/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_5/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,13 +33,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_4/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_4/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_4/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_4/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -51,13 +51,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_3/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_3/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_3/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_3/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -69,13 +69,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_2/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_2/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_2/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_2/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -87,13 +87,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_1/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_1/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/chapter_6/chapter_1/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_1/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -151,14 +151,20 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lan_interconnection/</loc>
+    <loc>http://localhost:1313/projects/lan_interconnection/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -171,12 +177,6 @@
       hreflang="en"
       href="http://localhost:1313/posts/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/crypt_exam_2/</loc>

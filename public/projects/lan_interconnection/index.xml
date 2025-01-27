@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAN interconnection on Mora&#39;s tech blog</title>
+    <link>http://localhost:1313/projects/lan_interconnection/</link>
+    <description>Recent content in LAN interconnection on Mora&#39;s tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>m0r4a@proton.me (Gael Mora)</managingEditor>
+    <webMaster>m0r4a@proton.me (Gael Mora)</webMaster>
+    <copyright>© 2025 Gael Mora</copyright>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/lan_interconnection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 6: Multiarea OSPF</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_6/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_6/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/lan_interconnection/chapter_6/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 5: Single-Area OSPF</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_5/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_5/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/lan_interconnection/chapter_5/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 5: Single-Area OSPF</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_5/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_5/</guid>
+      <description>Placeholder</description>
+      
+    </item>
+    
+    <item>
+      <title>Chapter 4: RIP &amp; EIGRP</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_4/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_4/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/lan_interconnection/chapter_4/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 4: RIP &amp; EIGRP</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_4/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_4/</guid>
+      <description>Placeholder</description>
+      
+    </item>
+    
+    <item>
+      <title>Chapter 3: Dynamic Routing</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_3/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_3/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/lan_interconnection/chapter_3/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 3: Dynamic Routing</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_3/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_3/</guid>
+      <description>Placeholder</description>
+      
+    </item>
+    
+    <item>
+      <title>Chapter 2: Static Routing</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_2/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_2/</guid>
+      <description>Placeholder</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/lan_interconnection/chapter_2/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 2: Static Routing</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_2/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_2/</guid>
+      <description>Placeholder</description>
+      
+    </item>
+    
+    <item>
+      <title>Chapter 1: IP Routing Overview</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_1/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_1/</guid>
+      <description>This is another test post in which I give a really simple and brief python guide</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/lan_interconnection/chapter_1/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chapter 1: IP Routing Overview</title>
+      <link>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_1/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>m0r4a@proton.me (Gael Mora)</author>
+      <guid>http://localhost:1313/projects/lan_interconnection/chapter_6/chapter_1/</guid>
+      <description>This is another test post in which I give a really simple and brief python guide</description>
+      
+    </item>
+    
+  </channel>
+</rss>

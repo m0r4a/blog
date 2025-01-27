@@ -24,10 +24,11 @@ This chapter introduces foundational concepts of IP routing, including Internet 
 
 <details>
   <summary>Key concepts</summary>
+
 | Concept               | Details                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
-|                       |                                                                         |
-|                       |                                                                         |
+| placeholder           | placeholder                                                             |
+
 </details>
 
 ---
@@ -41,10 +42,11 @@ Chapter overview
 
 <details>
   <summary>Key concepts</summary>
+
 | Concept               | Details                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
-|                       |                                                                         |
-|                       |                                                                         |
+| placeholder           | placeholder                                                             |
+
 </details>
 
 ---
@@ -58,10 +60,11 @@ Chapter overview
 
 <details>
   <summary>Key concepts</summary>
+
 | Concept               | Details                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
-|                       |                                                                         |
-|                       |                                                                         |
+| placeholder           | placeholder                                                             |
+
 </details>
 
 ---
@@ -75,10 +78,11 @@ Chapter overview
 
 <details>
   <summary>Key concepts</summary>
+
 | Concept               | Details                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
-|                       |                                                                         |
-|                       |                                                                         |
+| placeholder           | placeholder                                                             |
+
 </details>
 
 ---
@@ -92,10 +96,11 @@ Chapter overview
 
 <details>
   <summary>Key concepts</summary>
+
 | Concept               | Details                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
-|                       |                                                                         |
-|                       |                                                                         |
+| placeholder           | placeholder                                                             |
+
 </details>
 
 ---
@@ -110,10 +115,11 @@ Chapter overview
 
 <details>
   <summary>Key concepts</summary>
+
 | Concept               | Details                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
-|                       |                                                                         |
-|                       |                                                                         |
+| placeholder           | placeholder                                                             |
+
 </details>
 
 ---
