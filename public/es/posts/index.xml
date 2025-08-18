@@ -10,6 +10,7 @@
     <webMaster>m0r4a@proton.me (Gael Mora)</webMaster>
     <copyright>© 2025 Gael Mora</copyright>
     <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Resumen del examen 2 de Criptografía</title>
       <link>http://localhost:1313/es/posts/crypt_exam_2/</link>
@@ -18,26 +19,6 @@
       <guid>http://localhost:1313/es/posts/crypt_exam_2/</guid>
       <description>Este post es una re-escritura del documento de resumen dado por el profesor que incluye solo los temas del examen 2.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/crypt_exam_2/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Guía rápida de Python</title>
-      <link>http://localhost:1313/es/posts/python_basics/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://localhost:1313/es/posts/python_basics/</guid>
-      <description>Este es otro post de prueba en donde hice una simple y resumida guía de python.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/python_basics/featured.jpeg" />
-    </item>
-    
-    <item>
-      <title>La historia de Linux</title>
-      <link>http://localhost:1313/es/posts/linux_history/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <author>m0r4a@proton.me (Gael Mora)</author>
-      <guid>http://localhost:1313/es/posts/linux_history/</guid>
-      <description>Este es un post en donde hago un resumen de la historia de linux, es un test de prueba.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux_history/featured.jpg" />
     </item>
     
     <item>
